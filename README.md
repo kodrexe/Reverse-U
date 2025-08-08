@@ -1,23 +1,23 @@
-## Reverse-U 
+## 🍒 Reverse-U 
 
-🎮 Reverse U — The sleek, high-performance Roblox Lua script executor designed for speed, stability, and stealth.
+Reverse U — The sleek, high-performance Roblox Lua script executor designed for speed, stability, and stealth.
 
 Built with a modern interface and powerful injection methods, Reverse U lets you effortlessly run complex scripts with minimal crashes and maximum control.
 
 ## 🚀 Features
-⚡ Fast & Stable Execution
+Fast & Stable Execution
 Advanced injection techniques ensure smooth script loading with intelligent environment setup to prevent crashes.
 
-🖥️ Modern & Intuitive UI
+Modern & Intuitive UI
 Clean, user-friendly interface built with WinForms + Siticone UI for seamless navigation and easy script management.
 
-📝 Powerful Script Editor
+Powerful Script Editor
 Embedded WebView2 control with ACE editor provides syntax highlighting, auto-indentation, and tab support for an enhanced coding experience.
 
-📂 Script Management
+Script Management
 Save, load, and organize your favorite scripts with just a few clicks.
 
-🔒 Stealth-Focused Design
+Stealth-Focused Design
 Lightweight and optimized to reduce detection risk and keep your activities under the radar.
 
 ## 📦 Installation
