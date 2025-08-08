@@ -48,5 +48,6 @@ This tool is for educational purposes only. Use responsibly and respect Roblox�
 📄 License
 Reverse U is licensed under the Reverse U Custom License (Educational Use Only).
 See the LICENSE file for full details.
+## 📄 License
 
 Reverse U — Fast. Stable. Stylish. 🚀✨
