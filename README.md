@@ -25,7 +25,7 @@ Download the latest release from the Releases page.
 
 Extract the contents to your preferred folder.
 
-Run Reverse U.exe as Administrator to ensure proper permissions.
+Run Reverse U.exe. Enjoy
 
 ## 📜 How to Use
 Launch Reverse U.
