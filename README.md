@@ -4,7 +4,7 @@
 
 Built with a modern interface and powerful injection methods, Reverse U lets you effortlessly run complex scripts with minimal crashes and maximum control.
 
-🚀 Features
+## 🚀 Features
 ⚡ Fast & Stable Execution
 Advanced injection techniques ensure smooth script loading with intelligent environment setup to prevent crashes.
 
