@@ -37,7 +37,7 @@ Click Inject to attach the executor to Roblox.
 Press Execute to run your script.
 
 ## 🎨 Screenshots
-<img width="526" height="454" alt="image" src="https://github.com/user-attachments/assets/8dc8238e-2df2-4ae0-a163-7cb90c699667" />
+<img width="1280" height="720" alt="the best" src="https://github.com/user-attachments/assets/01294b90-5d97-4a80-9fc8-41a63ccb43b6" />
 <img width="1493" height="800" alt="image" src="https://github.com/user-attachments/assets/c6223aa1-5c33-4693-bbe4-06a6854c69cd" />
 <img width="1335" height="657" alt="image" src="https://github.com/user-attachments/assets/b895d8a3-ee80-4218-adfb-5ed86b32ab03" />
 
