@@ -41,13 +41,13 @@ Press Execute to run your script.
 <img width="1335" height="657" alt="image" src="https://github.com/user-attachments/assets/b895d8a3-ee80-4218-adfb-5ed86b32ab03" />
 
 
-
-⚠️ Disclaimer
-This tool is for educational purposes only. Use responsibly and respect Roblox’s Terms of Service. The developers are not affiliated with Roblox and do not condone exploiting on live servers.
-
 📄 License
 Reverse U is licensed under the Reverse U Custom License (Educational Use Only).
 See the LICENSE file for full details.
 ## 📄 License
+
+
+⚠️ Disclaimer
+This tool is for educational purposes only. Use responsibly and respect Roblox’s Terms of Service. The developers are not affiliated with Roblox and do not condone exploiting on live servers.
 
 Reverse U — Fast. Stable. Stylish. 🚀✨
